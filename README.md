@@ -49,8 +49,8 @@ ImageDataGenerator(
     fill_mode='nearest',
     validation_split=0.2
 )
-
-🚀 Training
+```
+## 🚀 Training
 Optimizer: Adam
 
 Loss: categorical_crossentropy
@@ -58,8 +58,8 @@ Loss: categorical_crossentropy
 Epochs: 20
 
 Batch size: 32
-
-📊 Future Improvements
+---
+## 📊 Future Improvements
 Add early stopping and model checkpointing.
 
 Unfreeze top VGG16 layers for fine-tuning.
@@ -69,7 +69,8 @@ Add confusion matrix and classification report.
 Export and deploy the model with Flask or FastAPI.
 
 
-✍️ Author
+
+## ✍️ Author
 Kevin Amaya 
 
 📧 kevin.amayav@outlook.com
