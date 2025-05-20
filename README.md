@@ -4,7 +4,7 @@ This project implements a convolutional neural network using **Transfer Learning
 
 ## 🧠 Project Overview
 
-The goal is to train a deep learning model that can distinguish between healthy and cancerous colon tissues from high-resolution images. We leverage **data augmentation**, **VGG16 pretrained weights**, and **fine-tuning techniques** to improve generalization and performance.
+The goal is to train a deep learning model that can distinguish between healthy and cancerous colon tissues from high-resolution images. I leverage **data augmentation**, **VGG16 pretrained weights**, and **fine-tuning techniques** to improve generalization and performance.
 
 ---
 
@@ -70,7 +70,7 @@ Export and deploy the model with Flask or FastAPI.
 
 
 ✍️ Author
-Kevin  Amaya 
+Kevin Amaya 
 
 📧 kevin.amayav@outlook.com
 
